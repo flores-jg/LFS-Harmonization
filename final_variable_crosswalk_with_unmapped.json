@@ -1,0 +1,598 @@
+{
+  "variable_crosswalk": [
+    {
+      "name": "PUFREG",
+      "description": "Region",
+      "variables": [
+        "CREG",
+        "REG"
+      ]
+    },
+    {
+      "name": "PUFHHNUM",
+      "description": "Household Unique Sequential Number",
+      "variables": [
+        "HHNUM"
+      ]
+    },
+    {
+      "name": "PUFPWGTPRV",
+      "description": "Final Weight Based on Projection",
+      "variables": [
+        "CFWGT",
+        "FWGT",
+        "PUFPWGTFIN",
+        "PWGT"
+      ]
+    },
+    {
+      "name": "PUFSVYMO",
+      "description": "Survey Month",
+      "variables": [
+        "CMONTH",
+        "SVYMO"
+      ]
+    },
+    {
+      "name": "PUFSVYYR",
+      "description": "Survey Year",
+      "variables": [
+        "CYEAR",
+        "SVYYR"
+      ]
+    },
+    {
+      "name": "PUFPSU",
+      "description": "Psu Number",
+      "variables": [
+        "PSU",
+        "PSU_NO"
+      ]
+    },
+    {
+      "name": "PUFRPL",
+      "description": "Replicate",
+      "variables": [
+        "CRPM"
+      ]
+    },
+    {
+      "name": "PUFHHSIZE",
+      "description": "Household Size",
+      "variables": [
+        "HHID"
+      ]
+    },
+    {
+      "name": "PUFC01_LNO",
+      "description": "C101-Line Number",
+      "variables": [
+        "A01_LNO",
+        "C04_LNO",
+        "C101_LNO",
+        "CC04_LNOPRV",
+        "CC101_LNO"
+      ]
+    },
+    {
+      "name": "PUFC03_REL",
+      "description": "C03-Relationship to Household Head",
+      "variables": [
+        "A05_REL",
+        "C03_NEWMEM",
+        "C05_REL",
+        "CC03_NEWMEM",
+        "CC05_REL"
+      ]
+    },
+    {
+      "name": "PUFC04_SEX",
+      "description": "C04-Sex",
+      "variables": [
+        "A06_SEX",
+        "C06_SEX",
+        "CC06_SEX"
+      ]
+    },
+    {
+      "name": "PUFC05_AGE",
+      "description": "C05-Age as of Last Birthday",
+      "variables": [
+        "A07_AGE",
+        "C07_AGE",
+        "CC07_AGE"
+      ]
+    },
+    {
+      "name": "PUFC06_MSTAT",
+      "description": "C06-Marital Status",
+      "variables": [
+        "C08_MS",
+        "C08_MSTAT",
+        "CC08_MS",
+        "CC08_MSTAT"
+      ]
+    },
+    {
+      "name": "PUFC07_GRADE",
+      "description": "C07-Highest Grade Completed",
+      "variables": [
+        "C09_GRADE",
+        "C09_GRD",
+        "CC09_GRADE",
+        "J12C09_GRADE"
+      ]
+    },
+    {
+      "name": "PUFC08_CURSCH",
+      "description": "C08-Currently Attending School",
+      "variables": [
+        "A02_CSCH",
+        "A02_CURSCH"
+      ]
+    },
+    {
+      "name": "PUFC09_GRADTECH",
+      "description": "C09-Graduate of technical/vocational course",
+      "variables": [
+        "J12C11COURSE",
+        "J12C11_GRADTECH"
+      ]
+    },
+    {
+      "name": "PUFC09A_NFORMAL",
+      "description": "C09a - Currently Attending Non-formal Training for Skills Development",
+      "variables": []
+    },
+    {
+      "name": "PUFC10_CONWR",
+      "description": "C10-Overseas Filipino Indicator",
+      "variables": [
+        "C10_CONWR",
+        "CC10_CONWR",
+        "PUFC08_CONWR",
+        "C10_CNWR"
+      ]
+    },
+    {
+      "name": "PUFC11_WORK",
+      "description": "C11-Work Indicator",
+      "variables": [
+        "A04_WORK",
+        "B01_WORK",
+        "C11_WORK",
+        "C13_WORK",
+        "CC01_WORK",
+        "CC13_WORK",
+        "PUFC09_WORK"
+      ]
+    },
+    {
+      "name": "PUFC11A_ARRANGEMENT",
+      "description": "C11A - Working Arrangement",
+      "variables": [
+        "PUFC09A_WORK"
+      ]
+    },
+    {
+      "name": "PUFC12_JOB",
+      "description": "C12-Job Indicator",
+      "variables": [
+        "A04_JOB",
+        "B02_JOB",
+        "C14_JOB",
+        "CC02_JOB",
+        "CC14_JOB",
+        "PUFC10_JOB"
+      ]
+    },
+    {
+      "name": "PUFC12A_PROVMUN",
+      "description": "C12A - Location of Work (Province, Municipality)",
+      "variables": [
+        "PROV",
+        "PUFC11A_PROVMUN",
+        "PUFPRV"
+      ]
+    },
+    {
+      "name": "PUFC14_PROCC",
+      "description": "C14-Primary Occupation",
+      "variables": [
+        "A04_OCC",
+        "B04_OCC",
+        "C16F2_PROCC",
+        "C16L2_PROCC",
+        "C16_PROCC",
+        "CC04_OCC",
+        "CC16_PROCC",
+        "PUFC13_PROCC",
+        "CC12_USOCC",
+        "C16_PROC"
+      ]
+    },
+    {
+      "name": "PUFC16_PKB",
+      "description": "C16-Kind of Business (Primary Occupation)",
+      "variables": [
+        "A06_IND",
+        "B06_IND",
+        "C18F2_PKB",
+        "C18L2_PKB",
+        "C18_PKB",
+        "CC06_IND",
+        "CC18_PKB",
+        "J03_OKB",
+        "PUFC15_PKB"
+      ]
+    },
+    {
+      "name": "PUFC17_NATEM",
+      "description": "C17-Nature of Employment (Primary Occupation)",
+      "variables": [
+        "C20_NATEM",
+        "CC20_NATEM",
+        "C20_NTEM",
+        "PUFC16_NATEM"
+      ]
+    },
+    {
+      "name": "PUFC18_PNWHRS",
+      "description": "C18-Normal Working Hours per Day",
+      "variables": [
+        "A04_NWHRS",
+        "C21_PNWHRS",
+        "CC18_PNWHRS",
+        "CC21_PNWHRS",
+        "C21_PWHR",
+        "PUFC17_PNWHRS"
+      ]
+    },
+    {
+      "name": "PUFC19_PHOURS",
+      "description": "C19-Total Number of Hours Worked during the past week",
+      "variables": [
+        "C22_PHOURS",
+        "C22_PHRS",
+        "CC22_PHOURS",
+        "PUFC18_PHOURS"
+      ]
+    },
+    {
+      "name": "PUFC20_PWMORE",
+      "description": "C20-Want More Hours of Work",
+      "variables": [
+        "C23_PWMORE",
+        "CC23_PWMORE",
+        "PUFC19_PWMORE",
+        "C23_PWMR"
+      ]
+    },
+    {
+      "name": "PUFC21_PLADDW",
+      "description": "C21-Look for Additional Work",
+      "variables": [
+        "C24_PLADDW",
+        "CC24_PLADDW",
+        "PUFC20_PLADDW",
+        "C24_PLAW"
+      ]
+    },
+    {
+      "name": "PUFC22_PFWRK",
+      "description": "C22-First Time to Work",
+      "variables": [
+        "C25_PFWRK",
+        "CC25_PFWRK",
+        "PUFC20B_FTWORK",
+        "C25_PFWK"
+      ]
+    },
+    {
+      "name": "PUFC23_PCLASS",
+      "description": "C23-Class of Worker (Primary Occupation)",
+      "variables": [
+        "C19_PCLASS",
+        "CC19_PCLASS",
+        "J04_OCLASS",
+        "J04_OCLS",
+        "C19PCLAS",
+        "PUFC21_PCLASS"
+      ]
+    },
+    {
+      "name": "PUFC24_PBASIS",
+      "description": "C24-Basis of Payment (Primary Occupation)",
+      "variables": [
+        "C26_PBASIS",
+        "C26_PBIS",
+        "CC26_PBASIS",
+        "J06_OBASIS",
+        "J06_OBIS"
+      ]
+    },
+    {
+      "name": "PUFC25_PBASIC",
+      "description": "C25-Basic Pay per Day (Primary Occupation)",
+      "variables": [
+        "C27_PBASIC",
+        "C27_PBSC",
+        "C36_OBASIC",
+        "C36_OBIC",
+        "CC27_PBASIC",
+        "J07_OBASIC"
+      ]
+    },
+    {
+      "name": "PUFC26_OJOB",
+      "description": "C26-Other Job Indicator",
+      "variables": [
+        "C28_OJOB",
+        "CC28_OJOB",
+        "PUFC22_OJOB"
+      ]
+    },
+    {
+      "name": "PUFC27_NJOBS",
+      "description": "C27-Number of Jobs during the past week",
+      "variables": [
+        "A03_JOBS"
+      ]
+    },
+    {
+      "name": "PUFC28_THOURS",
+      "description": "C28-Total Hours Worked for all Jobs",
+      "variables": [
+        "A04_THOURS",
+        "A04_THRS",
+        "PUFC23_THOURS"
+      ]
+    },
+    {
+      "name": "PUFC29_WWM48H",
+      "description": "C29-Reasons for Working More than 48 Hours during the past week",
+      "variables": [
+        "A05_R48H",
+        "A05_RWM48H",
+        "PUFC24_WWM48H"
+      ]
+    },
+    {
+      "name": "PUFC30_LOOKW",
+      "description": "C30-Looked for Work or Tried to Establish Business during the past week",
+      "variables": [
+        "A06_LOOKW",
+        "B08_LOOKW",
+        "C38_LOOKW",
+        "CC30_LOOKW",
+        "CC38_LOOKW",
+        "C38_LOKW",
+        "PUFC25_LOOKW"
+      ]
+    },
+    {
+      "name": "PUFC31_FLWRK",
+      "description": "C31-First Time to Look for Work",
+      "variables": [
+        "C41_FLWRK",
+        "C41_FLWK",
+        "PUFC25B_FTWORK",
+        "CC41_FLWRK"
+      ]
+    },
+    {
+      "name": "PUFC32_JOBSM",
+      "description": "C32-Job Search Method",
+      "variables": [
+        "C39_JOBSM",
+        "CC32_JOBSM",
+        "C39_JBSM",
+        "CC39_JOBSM",
+        "JOBSM"
+      ]
+    },
+    {
+      "name": "PUFC33_WEEKS",
+      "description": "C33-Number of Weeks Spent in Looking for Work",
+      "variables": [
+        "C40_WEEKS",
+        "CC33_WEEKS",
+        "CC40_WEEKS",
+        "C40_WKS",
+        "WEEKS"
+      ]
+    },
+    {
+      "name": "PUFC34_WYNOT",
+      "description": "C34-Reason for not Looking for Work",
+      "variables": [
+        "C42_WYNOT",
+        "CC42_WYNOT",
+        "C42_WYNT",
+        "PUFC26_WYNOT"
+      ]
+    },
+    {
+      "name": "PUFC35_LTLOOKW",
+      "description": "C35-When Last Looked for Work",
+      "variables": [
+        "A06_LLKW",
+        "A06_LTLOOKW",
+        "CC35_LTLOOKW"
+      ]
+    },
+    {
+      "name": "PUFC36_AVAIL",
+      "description": "C36-Available for Work",
+      "variables": [
+        "A07_AVAIL",
+        "C37_AVAIL",
+        "CC36_AVAIL",
+        "CC37_AVAIL",
+        "PUFC27_AVAIL",
+        "C37_AVIL"
+      ]
+    },
+    {
+      "name": "PUFC37_WILLING",
+      "description": "C37-Willingness to take up work during the past week or withing two weeks",
+      "variables": [
+        "A07_WILLING",
+        "A07_WLNG",
+        "WILLING"
+      ]
+    },
+    {
+      "name": "PUFC38_PREVJOB",
+      "description": "C38-Previous Job Indicator",
+      "variables": [
+        "C43_LBEF",
+        "CC43_LBEF",
+        "PUFC28_PREVJOB"
+      ]
+    },
+    {
+      "name": "PUFC39_YEAR",
+      "description": "C39 - Last worked (Year)",
+      "variables": [
+        "PUFC29_YEAR"
+      ]
+    },
+    {
+      "name": "PUFC39_MONTH",
+      "description": "C39 - Last worked (Month)",
+      "variables": [
+        "PUFC29_MONTH"
+      ]
+    },
+    {
+      "name": "PUFC41_POCC",
+      "description": "C41- Previous Occupation",
+      "variables": [
+        "A10_POCC",
+        "C45F2_POCC",
+        "C45L2_POCC",
+        "C45_POCC",
+        "CC10_POCC",
+        "CC45_POCC",
+        "PUFC31_POCC",
+        "PUFC40_POCC"
+      ]
+    },
+    {
+      "name": "PUFC43_QKB",
+      "description": "C43-Kind of Business (past quarter)",
+      "variables": [
+        "A09F2_PQKB",
+        "A09L2_PQKB",
+        "A09_PQKB",
+        "PQKB",
+        "PUFC33_QKB",
+        "QKB"
+      ]
+    },
+    {
+      "name": "PUFNEWEMPSTAT",
+      "description": "New Employment Criteria (jul 05, 2005)",
+      "variables": [
+        "ANSOEMPSTAT",
+        "NEWEMPSTAT",
+        "CEMPST1",
+        "CEMPST2",
+        "NEWEMPST"
+      ]
+    },
+    {
+      "name": "PUFURB2015",
+      "description": "Urban-Rural Classification",
+      "variables": [
+        "PUFURB2K10",
+        "URB2K1970",
+        "URB2K70"
+      ]
+    }
+  ],
+  "unmapped_variables": [
+    "A01_HHEAD",
+    "A08_PQTR",
+    "A08_WPQTR",
+    "ADJHU",
+    "ADJNR",
+    "AISDEMPSTAT",
+    "ANSODWRKR",
+    "ANSOEXPUNEMP",
+    "ANSONEWENT",
+    "BGY",
+    "BWGT",
+    "CADJHU",
+    "CADJWGT",
+    "CAUXINFO",
+    "CBWGT",
+    "CC30_OTOCC",
+    "CC32_OKB",
+    "CC33_OCLASS",
+    "CC34_OHOURS",
+    "CC35_OBASIS",
+    "CC36_OBASIC",
+    "CEXPUEMP",
+    "CFNO",
+    "CINTVW",
+    "CMBDIED",
+    "CMBJOB",
+    "CMBMARR",
+    "CMBOTHR",
+    "CMBOUT",
+    "CMBSTUD",
+    "CNEWENT",
+    "CNEWMEM",
+    "COLL_INDNR",
+    "CRLNO",
+    "CROTATION",
+    "CSTR",
+    "CSTRRCD",
+    "CTHHHU",
+    "CUNDEMP",
+    "CVUEMP",
+    "EA",
+    "EAUNIQUE",
+    "EA_UNIQUE",
+    "ESTRATA",
+    "HCN",
+    "HHSQN",
+    "J01_USOC",
+    "J01_USOCC",
+    "J02_OTOC",
+    "J02_OTOCC",
+    "J05_OHOURS",
+    "J05_OHRS",
+    "J12INTVW",
+    "MUN",
+    "NEWEXUNEMP",
+    "PROVREC",
+    "PRRCD",
+    "PUFC05B_ETHNICITY",
+    "PUFC11_ONLINE",
+    "PUFC12_ONLINE",
+    "PUFC19B_PWHRS",
+    "PUFC34_LAIDOFF",
+    "PUFC36_OFWLAIDOFF",
+    "PUFC41_WQTR",
+    "PUFCHLABOR",
+    "PUFCHLABOR_C28",
+    "PUFDOLE_CHLABOR",
+    "PUFLONGHOURS",
+    "PUFLONGHOURS_C28",
+    "PUFPRRCD",
+    "SECOND_ID",
+    "SHSN",
+    "STRATUM",
+    "UPDIND",
+    "PUFC35_OFW"
+  ],
+  "summary": {
+    "total_masters": 51,
+    "total_mapped_legacy_variables": 174,
+    "total_unmapped_variables": 120,
+    "total_census_variables": 310
+  }
+}

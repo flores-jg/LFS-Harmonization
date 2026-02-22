@@ -1,0 +1,647 @@
+============================================================
+LFS HARMONIZER v8 - 47 CORE COLUMNS
+Started: 2026-02-05T18:29:54.136665
+Files found: 105
+Batch size: 5
+============================================================
+
+[1/105]
+Processing: 2005-01JAN.CSV
+  Year: 2005, Month: 1, Rows: 211,888, Cols: 85
+  Missing columns: PUFHHNUM, PUFHHSIZE, PUFRPL, PUFC08_CURSCH, PUFC09_GRADTECH...
+  Output: 48 columns, 211,888 rows [OK]
+
+[2/105]
+Processing: 2005-04APR.CSV
+  Year: 2005, Month: 4, Rows: 213,475, Cols: 98
+  Missing columns: PUFHHNUM, PUFHHSIZE, PUFC09_GRADTECH, PUFC39_YEAR, PUFC39_MONTH
+  Output: 48 columns, 213,475 rows [OK]
+
+[3/105]
+Processing: 2005-07JUL.CSV
+  Year: 2005, Month: 7, Rows: 206,467, Cols: 98
+  Missing columns: PUFHHNUM, PUFHHSIZE, PUFC09_GRADTECH, PUFC39_YEAR, PUFC39_MONTH
+  Output: 48 columns, 206,467 rows [OK]
+
+[4/105]
+Processing: 2005-10OCT.CSV
+  Year: 2005, Month: 10, Rows: 204,459, Cols: 98
+  Missing columns: PUFHHNUM, PUFHHSIZE, PUFC09_GRADTECH, PUFC39_YEAR, PUFC39_MONTH
+  Output: 48 columns, 204,459 rows [OK]
+
+[5/105]
+Processing: 2006-01JAN.CSV
+  Year: 2006, Month: 1, Rows: 203,795, Cols: 98
+  Missing columns: PUFHHNUM, PUFHHSIZE, PUFC09_GRADTECH, PUFC39_YEAR, PUFC39_MONTH
+  Output: 48 columns, 203,795 rows [OK]
+
+[6/105]
+Processing: 2006-04APR.CSV
+  Year: 2006, Month: 4, Rows: 206,373, Cols: 98
+  Missing columns: PUFHHNUM, PUFHHSIZE, PUFC09_GRADTECH, PUFC39_YEAR, PUFC39_MONTH
+  Output: 48 columns, 206,373 rows [OK]
+
+[7/105]
+Processing: 2006-07JUL.CSV
+  Year: 2006, Month: 7, Rows: 200,717, Cols: 98
+  Missing columns: PUFHHNUM, PUFHHSIZE, PUFC09_GRADTECH, PUFC39_YEAR, PUFC39_MONTH
+  Output: 48 columns, 200,717 rows [OK]
+
+[8/105]
+Processing: 2006-10OCT.CSV
+  Year: 2006, Month: 10, Rows: 201,134, Cols: 98
+  Missing columns: PUFHHNUM, PUFHHSIZE, PUFC09_GRADTECH, PUFC39_YEAR, PUFC39_MONTH
+  Output: 48 columns, 201,134 rows [OK]
+
+[9/105]
+Processing: 2007-01JAN.CSV
+  Year: 2007, Month: 1, Rows: 198,627, Cols: 54
+  Missing columns: PUFHHSIZE, PUFRPL, PUFC09_GRADTECH, PUFC39_YEAR, PUFC39_MONTH
+  Output: 48 columns, 198,627 rows [OK]
+
+[10/105]
+Processing: 2007-04APR.CSV
+  Year: 2007, Month: 4, Rows: 202,256, Cols: 54
+  Missing columns: PUFHHSIZE, PUFRPL, PUFC09_GRADTECH, PUFC39_YEAR, PUFC39_MONTH
+  Output: 48 columns, 202,256 rows [OK]
+
+[11/105]
+Processing: 2007-07JUL.CSV
+  Year: 2007, Month: 7, Rows: 196,085, Cols: 54
+  Missing columns: PUFHHSIZE, PUFRPL, PUFC09_GRADTECH, PUFC39_YEAR, PUFC39_MONTH
+  Output: 48 columns, 196,085 rows [OK]
+
+[12/105]
+Processing: 2007-10OCT.CSV
+  Year: 2007, Month: 10, Rows: 201,872, Cols: 54
+  Missing columns: PUFHHSIZE, PUFRPL, PUFC09_GRADTECH, PUFC39_YEAR, PUFC39_MONTH
+  Output: 48 columns, 201,872 rows [OK]
+
+[13/105]
+Processing: 2008-01JAN.CSV
+  Year: 2008, Month: 1, Rows: 202,168, Cols: 54
+  Missing columns: PUFHHSIZE, PUFRPL, PUFC09_GRADTECH, PUFC39_YEAR, PUFC39_MONTH
+  Output: 48 columns, 202,168 rows [OK]
+
+[14/105]
+Processing: 2008-04APR.CSV
+  Year: 2008, Month: 4, Rows: 197,929, Cols: 54
+  Missing columns: PUFHHSIZE, PUFRPL, PUFC09_GRADTECH, PUFC39_YEAR, PUFC39_MONTH
+  Output: 48 columns, 197,929 rows [OK]
+
+[15/105]
+Processing: 2008-07JUL.CSV
+  Year: 2008, Month: 7, Rows: 195,566, Cols: 54
+  Missing columns: PUFHHSIZE, PUFRPL, PUFC09_GRADTECH, PUFC39_YEAR, PUFC39_MONTH
+  Output: 48 columns, 195,566 rows [OK]
+
+[16/105]
+Processing: 2008-10OCT.CSV
+  Year: 2008, Month: 10, Rows: 202,083, Cols: 54
+  Missing columns: PUFHHSIZE, PUFRPL, PUFC09_GRADTECH, PUFC39_YEAR, PUFC39_MONTH
+  Output: 48 columns, 202,083 rows [OK]
+
+[17/105]
+Processing: 2009-01JAN.CSV
+  Year: 2009, Month: 1, Rows: 202,132, Cols: 54
+  Missing columns: PUFHHSIZE, PUFRPL, PUFC09_GRADTECH, PUFC39_YEAR, PUFC39_MONTH
+  Output: 48 columns, 202,132 rows [OK]
+
+[18/105]
+Processing: 2009-04APR.CSV
+  Year: 2009, Month: 4, Rows: 201,686, Cols: 54
+  Missing columns: PUFHHSIZE, PUFRPL, PUFC09_GRADTECH, PUFC39_YEAR, PUFC39_MONTH
+  Output: 48 columns, 201,686 rows [OK]
+
+[19/105]
+Processing: 2009-07JUL.CSV
+  Year: 2009, Month: 7, Rows: 198,870, Cols: 54
+  Missing columns: PUFHHSIZE, PUFRPL, PUFC09_GRADTECH, PUFC39_YEAR, PUFC39_MONTH
+  Output: 48 columns, 198,870 rows [OK]
+
+[20/105]
+Processing: 2009-10OCT.CSV
+  Year: 2009, Month: 10, Rows: 201,478, Cols: 54
+  Missing columns: PUFHHSIZE, PUFRPL, PUFC09_GRADTECH, PUFC39_YEAR, PUFC39_MONTH
+  Output: 48 columns, 201,478 rows [OK]
+
+[21/105]
+Processing: 2010-01JAN.CSV
+  Year: 2010, Month: 1, Rows: 195,850, Cols: 54
+  Missing columns: PUFHHSIZE, PUFRPL, PUFC09_GRADTECH, PUFC39_YEAR, PUFC39_MONTH
+  Output: 48 columns, 195,850 rows [OK]
+
+[22/105]
+Processing: 2010-04APR.CSV
+  Year: 2010, Month: 4, Rows: 202,479, Cols: 54
+  Missing columns: PUFHHSIZE, PUFRPL, PUFC09_GRADTECH, PUFC39_YEAR, PUFC39_MONTH
+  Output: 48 columns, 202,479 rows [OK]
+
+[23/105]
+Processing: 2010-07JUL.CSV
+  Year: 2010, Month: 7, Rows: 195,827, Cols: 54
+  Missing columns: PUFHHSIZE, PUFRPL, PUFC09_GRADTECH, PUFC39_YEAR, PUFC39_MONTH
+  Output: 48 columns, 195,827 rows [OK]
+
+[24/105]
+Processing: 2010-10OCT.CSV
+  Year: 2010, Month: 10, Rows: 201,695, Cols: 54
+  Missing columns: PUFHHSIZE, PUFRPL, PUFC09_GRADTECH, PUFC39_YEAR, PUFC39_MONTH
+  Output: 48 columns, 201,695 rows [OK]
+
+[25/105]
+Processing: 2011-01JAN.CSV
+  Year: 2011, Month: 1, Rows: 203,948, Cols: 54
+  Missing columns: PUFHHSIZE, PUFRPL, PUFC09_GRADTECH, PUFC39_YEAR, PUFC39_MONTH
+  Output: 48 columns, 203,948 rows [OK]
+
+[26/105]
+Processing: 2011-04APR.CSV
+  Year: 2011, Month: 4, Rows: 201,917, Cols: 54
+  Missing columns: PUFHHSIZE, PUFRPL, PUFC09_GRADTECH, PUFC39_YEAR, PUFC39_MONTH
+  Output: 48 columns, 201,917 rows [OK]
+
+[27/105]
+Processing: 2011-07JUL.CSV
+  Year: 2011, Month: 7, Rows: 198,755, Cols: 54
+  Missing columns: PUFHHSIZE, PUFRPL, PUFC09_GRADTECH, PUFC39_YEAR, PUFC39_MONTH
+  Output: 48 columns, 198,755 rows [OK]
+
+[28/105]
+Processing: 2011-10OCT.CSV
+  Year: 2011, Month: 10, Rows: 203,011, Cols: 54
+  Missing columns: PUFHHSIZE, PUFRPL, PUFC09_GRADTECH, PUFC39_YEAR, PUFC39_MONTH
+  Output: 48 columns, 203,011 rows [OK]
+
+[29/105]
+Processing: 2012-01JAN.CSV
+  Year: 2012, Month: 1, Rows: 204,725, Cols: 59
+  Missing columns: PUFRPL, PUFC39_YEAR, PUFC39_MONTH
+  Output: 48 columns, 204,725 rows [OK]
+
+[30/105]
+Processing: 2012-04APR.CSV
+  Year: 2012, Month: 4, Rows: 202,696, Cols: 59
+  Missing columns: PUFRPL, PUFC39_YEAR, PUFC39_MONTH
+  Output: 48 columns, 202,696 rows [OK]
+
+[31/105]
+Processing: 2012-07JUL.CSV
+  Year: 2012, Month: 7, Rows: 203,611, Cols: 59
+  Missing columns: PUFRPL, PUFC39_YEAR, PUFC39_MONTH
+  Output: 48 columns, 203,611 rows [OK]
+
+[32/105]
+Processing: 2012-10OCT.CSV
+  Year: 2012, Month: 10, Rows: 206,020, Cols: 59
+  Missing columns: PUFRPL, PUFC39_YEAR, PUFC39_MONTH
+  Output: 48 columns, 206,020 rows [OK]
+
+[33/105]
+Processing: 2013-01JAN.CSV
+  ERROR reading file: Error tokenizing data. C error: Expected 57 fields in line 98619, saw 58
+
+
+[34/105]
+Processing: 2013-04APR.CSV
+  ERROR reading file: Error tokenizing data. C error: Expected 57 fields in line 8017, saw 58
+
+
+[35/105]
+Processing: 2013-07JUL.CSV
+  ERROR reading file: Error tokenizing data. C error: Expected 57 fields in line 45687, saw 58
+
+
+[36/105]
+Processing: 2013-10OCT.CSV
+  ERROR reading file: Error tokenizing data. C error: Expected 57 fields in line 25257, saw 58
+
+
+[37/105]
+Processing: 2014-01JAN.CSV
+  ERROR reading file: Error tokenizing data. C error: Expected 57 fields in line 97506, saw 58
+
+
+[38/105]
+Processing: 2014-04APR.CSV
+  ERROR reading file: Error tokenizing data. C error: Expected 57 fields in line 4044, saw 59
+
+
+[39/105]
+Processing: 2014-07JUL.CSV
+  ERROR reading file: Error tokenizing data. C error: Expected 57 fields in line 36424, saw 58
+
+
+[40/105]
+Processing: 2014-10OCT.CSV
+  ERROR reading file: Error tokenizing data. C error: Expected 57 fields in line 38101, saw 58
+
+
+[41/105]
+Processing: 2015-01JAN.CSV
+  ERROR reading file: Error tokenizing data. C error: Expected 57 fields in line 11641, saw 58
+
+
+[42/105]
+Processing: 2015-04APR.CSV
+  ERROR reading file: Error tokenizing data. C error: Expected 57 fields in line 42095, saw 58
+
+
+[43/105]
+Processing: 2015-07JUL.CSV
+  ERROR reading file: Error tokenizing data. C error: Expected 57 fields in line 67423, saw 58
+
+
+[44/105]
+Processing: 2015-10OCT.CSV
+  ERROR reading file: Error tokenizing data. C error: Expected 57 fields in line 68257, saw 58
+
+
+[45/105]
+Processing: 2016-01JAN.CSV
+  ERROR reading file: Error tokenizing data. C error: Expected 57 fields in line 116124, saw 58
+
+
+[46/105]
+Processing: 2016-04APR.CSV
+  Year: 2016, Month: 4, Rows: 180,862, Cols: 50
+  Missing columns: PUFC39_YEAR, PUFC39_MONTH
+  Output: 48 columns, 180,862 rows [OK]
+
+[47/105]
+Processing: 2016-07JUL.CSV
+  Year: 2016, Month: 7, Rows: 182,904, Cols: 50
+  Missing columns: PUFC39_YEAR, PUFC39_MONTH
+  Output: 48 columns, 182,904 rows [OK]
+
+[48/105]
+Processing: 2016-10OCT.CSV
+  Year: 2016, Month: 10, Rows: 181,271, Cols: 50
+  Missing columns: PUFC39_YEAR, PUFC39_MONTH
+  Output: 48 columns, 181,271 rows [OK]
+
+[49/105]
+Processing: 2017-01JAN.CSV
+  Year: 2017, Month: 1, Rows: 182,824, Cols: 50
+  Missing columns: PUFC39_YEAR, PUFC39_MONTH
+  Output: 48 columns, 182,824 rows [OK]
+
+[50/105]
+Processing: 2017-04APR.CSV
+  Year: 2017, Month: 4, Rows: 179,525, Cols: 50
+  Missing columns: PUFC39_YEAR, PUFC39_MONTH
+  Output: 48 columns, 179,525 rows [OK]
+
+[51/105]
+Processing: 2017-07JUL.CSV
+  Year: 2017, Month: 7, Rows: 179,595, Cols: 50
+  Missing columns: PUFC39_YEAR, PUFC39_MONTH
+  Output: 48 columns, 179,595 rows [OK]
+
+[52/105]
+Processing: 2017-10OCT.CSV
+  Year: 2017, Month: 10, Rows: 179,007, Cols: 50
+  Missing columns: PUFC39_YEAR, PUFC39_MONTH
+  Output: 48 columns, 179,007 rows [OK]
+
+[53/105]
+Processing: 2018-01JAN.CSV
+  Year: 2018, Month: 1, Rows: 180,262, Cols: 50
+  Missing columns: PUFC39_YEAR, PUFC39_MONTH
+  Output: 48 columns, 180,262 rows [OK]
+
+[54/105]
+Processing: 2018-04APR.CSV
+  Year: 2018, Month: 4, Rows: 179,815, Cols: 50
+  Missing columns: PUFHHNUM, PUFC39_YEAR, PUFC39_MONTH
+  Output: 48 columns, 179,815 rows [OK]
+
+[55/105]
+Processing: 2018-07JUL.CSV
+  Year: 2018, Month: 7, Rows: 182,956, Cols: 51
+  Missing columns: PUFC39_YEAR, PUFC39_MONTH
+  Output: 48 columns, 182,956 rows [OK]
+
+[56/105]
+Processing: 2018-10OCT.CSV
+  Year: 2018, Month: 10, Rows: 179,204, Cols: 51
+  Missing columns: PUFC39_YEAR, PUFC39_MONTH
+  Output: 48 columns, 179,204 rows [OK]
+
+[57/105]
+Processing: 2019-01JAN.CSV
+  Year: 2019, Month: 1, Rows: 181,233, Cols: 49
+  Missing columns: PUFC39_YEAR, PUFC39_MONTH
+  Output: 48 columns, 181,233 rows [OK]
+
+[58/105]
+Processing: 2019-04APR.CSV
+  Year: 2019, Month: 4, Rows: 172,284, Cols: 49
+  Missing columns: PUFC39_YEAR, PUFC39_MONTH
+  Output: 48 columns, 172,284 rows [OK]
+
+[59/105]
+Processing: 2019-07JUL.CSV
+  Year: 2019, Month: 7, Rows: 175,438, Cols: 49
+  Missing columns: PUFC39_YEAR, PUFC39_MONTH
+  Output: 48 columns, 175,438 rows [OK]
+
+[60/105]
+Processing: 2019-10OCT.CSV
+  Year: 2019, Month: 10, Rows: 178,067, Cols: 49
+  Missing columns: PUFC39_YEAR, PUFC39_MONTH
+  Output: 48 columns, 178,067 rows [OK]
+
+[61/105]
+Processing: 2020-01JAN.CSV
+  Year: 2020, Month: 1, Rows: 178,140, Cols: 49
+  Missing columns: PUFC39_YEAR, PUFC39_MONTH
+  Output: 48 columns, 178,140 rows [OK]
+
+[62/105]
+Processing: 2020-04APR.CSV
+  Year: 2020, Month: 4, Rows: 176,469, Cols: 49
+  Missing columns: PUFC39_YEAR, PUFC39_MONTH
+  Output: 48 columns, 176,469 rows [OK]
+
+[63/105]
+Processing: 2020-07JUL.CSV
+  Year: 2020, Month: 7, Rows: 176,355, Cols: 49
+  Missing columns: PUFC39_YEAR, PUFC39_MONTH
+  Output: 48 columns, 176,355 rows [OK]
+
+[64/105]
+Processing: 2020-10OCT.csv
+  Year: 2020, Month: 10, Rows: 185,419, Cols: 49
+  Missing columns: PUFC39_YEAR, PUFC39_MONTH
+  Output: 48 columns, 185,419 rows [OK]
+
+[65/105]
+Processing: 2021-01JAN.csv
+  Year: 2021, Month: 1, Rows: 188,212, Cols: 49
+  Missing columns: PUFC39_YEAR, PUFC39_MONTH
+  Output: 48 columns, 188,212 rows [OK]
+
+[66/105]
+Processing: 2021-02FEB.csv
+  Year: 2021, Month: 2, Rows: 47,930, Cols: 43
+  Missing columns: PUFC08_CURSCH, PUFC09_GRADTECH, PUFC22_PFWRK, PUFC24_PBASIS, PUFC25_PBASIC...
+  Output: 48 columns, 47,930 rows [OK]
+
+[67/105]
+Processing: 2021-03MAR.csv
+  Year: 2021, Month: 3, Rows: 47,606, Cols: 43
+  Missing columns: PUFC08_CURSCH, PUFC09_GRADTECH, PUFC22_PFWRK, PUFC24_PBASIS, PUFC25_PBASIC...
+  Output: 48 columns, 47,606 rows [OK]
+
+[68/105]
+Processing: 2021-04APR.csv
+  Year: 2021, Month: 4, Rows: 188,664, Cols: 52
+  Output: 48 columns, 188,664 rows [OK]
+
+[69/105]
+Processing: 2021-05MAY.csv
+  Year: 2021, Month: 5, Rows: 47,889, Cols: 44
+  Missing columns: PUFC08_CURSCH, PUFC09_GRADTECH, PUFC22_PFWRK, PUFC24_PBASIS, PUFC25_PBASIC...
+  Output: 48 columns, 47,889 rows [OK]
+
+[70/105]
+Processing: 2021-06JUN.csv
+  Year: 2021, Month: 6, Rows: 47,749, Cols: 44
+  Missing columns: PUFC08_CURSCH, PUFC09_GRADTECH, PUFC22_PFWRK, PUFC24_PBASIS, PUFC25_PBASIC...
+  Output: 48 columns, 47,749 rows [OK]
+
+[71/105]
+Processing: 2021-07JUL.csv
+  Year: 2021, Month: 7, Rows: 748,713, Cols: 52
+  Output: 48 columns, 748,713 rows [OK]
+
+[72/105]
+Processing: 2021-08AUG.CSV
+  Year: 2021, Month: 8, Rows: 47,451, Cols: 44
+  Missing columns: PUFC08_CURSCH, PUFC09_GRADTECH, PUFC22_PFWRK, PUFC24_PBASIS, PUFC25_PBASIC...
+  Output: 48 columns, 47,451 rows [OK]
+
+[73/105]
+Processing: 2021-09SEP.CSV
+  Year: 2021, Month: 9, Rows: 47,771, Cols: 44
+  Missing columns: PUFC08_CURSCH, PUFC09_GRADTECH, PUFC22_PFWRK, PUFC24_PBASIS, PUFC25_PBASIC...
+  Output: 48 columns, 47,771 rows [OK]
+
+[74/105]
+Processing: 2021-10OCT.CSV
+  Year: 2021, Month: 10, Rows: 187,848, Cols: 58
+  Output: 48 columns, 187,848 rows [OK]
+
+[75/105]
+Processing: 2021-11NOV.CSV
+  Year: 2021, Month: 11, Rows: 47,417, Cols: 44
+  Missing columns: PUFC08_CURSCH, PUFC09_GRADTECH, PUFC22_PFWRK, PUFC24_PBASIS, PUFC25_PBASIC...
+  Output: 48 columns, 47,417 rows [OK]
+
+[76/105]
+Processing: 2021-12DEC.CSV
+  Year: 2021, Month: 12, Rows: 47,201, Cols: 44
+  Missing columns: PUFC08_CURSCH, PUFC09_GRADTECH, PUFC22_PFWRK, PUFC24_PBASIS, PUFC25_PBASIC...
+  Output: 48 columns, 47,201 rows [OK]
+
+[77/105]
+Processing: 2022-01JAN.csv
+  Year: 2022, Month: 1, Rows: 736,746, Cols: 52
+  Output: 48 columns, 736,746 rows [OK]
+
+[78/105]
+Processing: 2022-02FEB.csv
+  Year: 2022, Month: 2, Rows: 45,889, Cols: 41
+  Missing columns: PUFC08_CURSCH, PUFC09_GRADTECH, PUFC22_PFWRK, PUFC24_PBASIS, PUFC25_PBASIC...
+  Output: 48 columns, 45,889 rows [OK]
+
+[79/105]
+Processing: 2022-03MAR.csv
+  Year: 2022, Month: 3, Rows: 46,154, Cols: 41
+  Missing columns: PUFC08_CURSCH, PUFC09_GRADTECH, PUFC22_PFWRK, PUFC24_PBASIS, PUFC25_PBASIC...
+  Output: 48 columns, 46,154 rows [OK]
+
+[80/105]
+Processing: 2022-04APR.csv
+  Year: 2022, Month: 4, Rows: 184,237, Cols: 52
+  Output: 48 columns, 184,237 rows [OK]
+
+[81/105]
+Processing: 2022-05MAY.csv
+  Year: 2022, Month: 5, Rows: 46,264, Cols: 42
+  Missing columns: PUFC08_CURSCH, PUFC09_GRADTECH, PUFC24_PBASIS, PUFC25_PBASIC, PUFC27_NJOBS...
+  Output: 48 columns, 46,264 rows [OK]
+
+[82/105]
+Processing: 2022-06JUN.csv
+  Year: 2022, Month: 6, Rows: 45,894, Cols: 42
+  Missing columns: PUFC08_CURSCH, PUFC09_GRADTECH, PUFC24_PBASIS, PUFC25_PBASIC, PUFC27_NJOBS...
+  Output: 48 columns, 45,894 rows [OK]
+
+[83/105]
+Processing: 2022-07JUL.CSV
+  Year: 2022, Month: 7, Rows: 183,856, Cols: 52
+  Output: 48 columns, 183,856 rows [OK]
+
+[84/105]
+Processing: 2022-08AUG.CSV
+  Year: 2022, Month: 8, Rows: 45,054, Cols: 42
+  Missing columns: PUFC08_CURSCH, PUFC09_GRADTECH, PUFC24_PBASIS, PUFC25_PBASIC, PUFC27_NJOBS...
+  Output: 48 columns, 45,054 rows [OK]
+
+[85/105]
+Processing: 2022-09SEP.CSV
+  Year: 2022, Month: 9, Rows: 46,261, Cols: 42
+  Missing columns: PUFC08_CURSCH, PUFC09_GRADTECH, PUFC24_PBASIS, PUFC25_PBASIC, PUFC27_NJOBS...
+  Output: 48 columns, 46,261 rows [OK]
+
+[86/105]
+Processing: 2022-10OCT.CSV
+  Year: 2022, Month: 10, Rows: 183,602, Cols: 52
+  Output: 48 columns, 183,602 rows [OK]
+
+[87/105]
+Processing: 2022-11NOV.CSV
+  Year: 2022, Month: 11, Rows: 45,561, Cols: 42
+  Missing columns: PUFC08_CURSCH, PUFC09_GRADTECH, PUFC24_PBASIS, PUFC25_PBASIC, PUFC27_NJOBS...
+  Output: 48 columns, 45,561 rows [OK]
+
+[88/105]
+Processing: 2022-12DEC.CSV
+  Year: 2022, Month: 12, Rows: 45,687, Cols: 42
+  Missing columns: PUFC08_CURSCH, PUFC09_GRADTECH, PUFC24_PBASIS, PUFC25_PBASIC, PUFC27_NJOBS...
+  Output: 48 columns, 45,687 rows [OK]
+
+[89/105]
+Processing: 2023-01JAN.CSV
+  Year: 2023, Month: 1, Rows: 184,113, Cols: 52
+  Output: 48 columns, 184,113 rows [OK]
+
+[90/105]
+Processing: 2023-02FEB.CSV
+  Year: 2023, Month: 2, Rows: 47,044, Cols: 42
+  Missing columns: PUFC08_CURSCH, PUFC09_GRADTECH, PUFC24_PBASIS, PUFC25_PBASIC, PUFC27_NJOBS...
+  Output: 48 columns, 47,044 rows [OK]
+
+[91/105]
+Processing: 2023-03MAR.CSV
+  Year: 2023, Month: 3, Rows: 46,212, Cols: 42
+  Missing columns: PUFC08_CURSCH, PUFC09_GRADTECH, PUFC24_PBASIS, PUFC25_PBASIC, PUFC27_NJOBS...
+  Output: 48 columns, 46,212 rows [OK]
+
+[92/105]
+Processing: 2023-04APR.CSV
+  Year: 2023, Month: 4, Rows: 181,424, Cols: 52
+  Output: 48 columns, 181,424 rows [OK]
+
+[93/105]
+Processing: 2023-05MAY.CSV
+  Year: 2023, Month: 5, Rows: 45,505, Cols: 42
+  Missing columns: PUFC08_CURSCH, PUFC09_GRADTECH, PUFC24_PBASIS, PUFC25_PBASIC, PUFC27_NJOBS...
+  Output: 48 columns, 45,505 rows [OK]
+
+[94/105]
+Processing: 2023-06JUN.CSV
+  Year: 2023, Month: 6, Rows: 46,060, Cols: 42
+  Missing columns: PUFC08_CURSCH, PUFC09_GRADTECH, PUFC24_PBASIS, PUFC25_PBASIC, PUFC27_NJOBS...
+  Output: 48 columns, 46,060 rows [OK]
+
+[95/105]
+Processing: 2023-07JUL.CSV
+  Year: 2023, Month: 7, Rows: 718,567, Cols: 52
+  Output: 48 columns, 718,567 rows [OK]
+
+[96/105]
+Processing: 2023-08AUG.CSV
+  Year: 2023, Month: 8, Rows: 44,999, Cols: 41
+  Missing columns: PUFC08_CURSCH, PUFC09_GRADTECH, PUFC24_PBASIS, PUFC25_PBASIC, PUFC27_NJOBS...
+  Output: 48 columns, 44,999 rows [OK]
+
+[97/105]
+Processing: 2023-09SEP.CSV
+  Year: 2023, Month: 9, Rows: 44,659, Cols: 41
+  Missing columns: PUFC08_CURSCH, PUFC09_GRADTECH, PUFC24_PBASIS, PUFC25_PBASIC, PUFC27_NJOBS...
+  Output: 48 columns, 44,659 rows [OK]
+
+[98/105]
+Processing: 2023-10OCT.CSV
+  Year: 2023, Month: 10, Rows: 179,173, Cols: 52
+  Output: 48 columns, 179,173 rows [OK]
+
+[99/105]
+Processing: 2023-11NOV.CSV
+  Year: 2023, Month: 11, Rows: 44,609, Cols: 41
+  Missing columns: PUFC08_CURSCH, PUFC09_GRADTECH, PUFC24_PBASIS, PUFC25_PBASIC, PUFC27_NJOBS...
+  Output: 48 columns, 44,609 rows [OK]
+
+[100/105]
+Processing: 2023-12DEC.CSV
+  Year: 2023, Month: 12, Rows: 44,141, Cols: 41
+  Missing columns: PUFC08_CURSCH, PUFC09_GRADTECH, PUFC24_PBASIS, PUFC25_PBASIC, PUFC27_NJOBS...
+  Output: 48 columns, 44,141 rows [OK]
+
+[101/105]
+Processing: 2024-01JAN.CSV
+  Year: 2024, Month: 1, Rows: 707,981, Cols: 52
+  Output: 48 columns, 707,981 rows [OK]
+
+[102/105]
+Processing: 2024-02FEB.CSV
+  Year: 2024, Month: 2, Rows: 44,598, Cols: 41
+  Missing columns: PUFC08_CURSCH, PUFC09_GRADTECH, PUFC24_PBASIS, PUFC25_PBASIC, PUFC27_NJOBS...
+  Output: 48 columns, 44,598 rows [OK]
+
+[103/105]
+Processing: 2024-03MAR.CSV
+  Year: 2024, Month: 3, Rows: 44,063, Cols: 41
+  Missing columns: PUFC08_CURSCH, PUFC09_GRADTECH, PUFC24_PBASIS, PUFC25_PBASIC, PUFC27_NJOBS...
+  Output: 48 columns, 44,063 rows [OK]
+
+[104/105]
+Processing: 2024-04APR.CSV
+  Year: 2024, Month: 4, Rows: 175,511, Cols: 51
+  Output: 48 columns, 175,511 rows [OK]
+
+[105/105]
+Processing: 2024-07JUL.CSV
+  Year: 2024, Month: 7, Rows: 173,259, Cols: 51
+  Output: 48 columns, 173,259 rows [OK]
+
+============================================================
+INDIVIDUAL FILES COMPLETE
+  Processed: 92 files
+  Errors: 0 files
+  Total rows: 16,002,798
+============================================================
+
+Combining files in batches of 5...
+  Batch 1: files 1-5
+  Batch 2: files 6-10
+  Batch 3: files 11-15
+  Batch 4: files 16-20
+  Batch 5: files 21-25
+  Batch 6: files 26-30
+  Batch 7: files 31-35
+  Batch 8: files 36-40
+  Batch 9: files 41-45
+  Batch 10: files 46-50
+  Batch 11: files 51-55
+  Batch 12: files 56-60
+  Batch 13: files 61-65
+  Batch 14: files 66-70
+  Batch 15: files 71-75
+  Batch 16: files 76-80
+  Batch 17: files 81-85
+  Batch 18: files 86-90
+  Batch 19: files 91-92
+
+Final sorting by year/month...
+
+============================================================
+HARMONIZATION COMPLETE!
+============================================================
+Output: output_v8\lfs_harmonized_2024codes.parquet
+Total rows: 16,002,798
+Columns: 48
+Years: 2005 - 2024

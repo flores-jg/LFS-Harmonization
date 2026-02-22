@@ -1,0 +1,19 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(ls \"C:\\\\Users\\\\Bigas\\\\Desktop\\\\Thesis Re-Oral\\\\LFS Harmonization\\\\output_v8\\\\individual_files\"\" | head -5 && echo \"---\" && ls \"C:UsersBigasDesktopThesis Re-OralLFS Harmonizationoutput_v8individual_files\"\")",
+      "Bash(ls:*)",
+      "Bash(python3:*)",
+      "Bash(for file in raw/*.csv)",
+      "Bash(do head -1 \"$file\")",
+      "Bash(done)",
+      "Bash(where:*)",
+      "Bash(python:*)",
+      "Bash(C:/Python313/python.exe:*)",
+      "Bash(/c/Python313/python.exe:*)",
+      "Bash(py:*)",
+      "Bash(/c/Python313/python:*)",
+      "Bash(dir \"C:\\\\Users\\\\Bigas\\\\Desktop\\\\Thesis Re-Oral\\\\LFS Harmonization\\\\raw_dicts\"\")"
+    ]
+  }
+}
